@@ -1,0 +1,15 @@
+console.log("hello  world")--allows you to see things in console.
+u can use scrimba,codepen or vs code for running js.
+comments   //,/*comments*/ 
+data types..
+undefined,null,boolean,string,symbol,number and objects
+declaring variable---
+var name="indhu"
+name=8-- we can change this
+let ourname="course"--only used within the code where u declare that
+const pi=3.14
+ 
+ storing var with assignment operator..
+ var a;
+ var b=2;
+ 
