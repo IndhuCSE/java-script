@@ -12,4 +12,7 @@ const pi=3.14
  storing var with assignment operator..
  var a;
  var b=2;
+  
+ initializing variables with assignment operator..
+ 
  
